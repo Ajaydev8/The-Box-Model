@@ -24,3 +24,12 @@ p {
     font-family: 'Courier New', Courier, monospace;
     
 }
+
+a {
+    font-size: 24px;
+    margin-left: 550px;
+    background-color: rebeccapurple;
+    color: yellow;
+    text-align: center;
+    border: 20px rgb(100, 237, 107);
+}
