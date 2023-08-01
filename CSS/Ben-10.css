@@ -1,3 +1,26 @@
+* {
+    background-color: #006600;
+    
+}
+
 h1 {
-    color: #006600;
+    color: white;
+    border: 20px solid black;
+    text-align: center;
+}
+
+.Ben {
+    height: auto;
+    width: 300px;
+    padding-left: 530px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid white;
 }
