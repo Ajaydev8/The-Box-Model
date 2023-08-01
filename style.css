@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    border: 5px solid black;
+    /* the border here is expanded to the whole line of the page indicating that the border is and BLOCK ELEMENT! */
+    background-color: greenyellow;
+    /* Background color covers the entire line */
+    color: orange;
+}
+
+img {
+    display: inline-flex;
+    height: auto;
+    width: 300px;
+    border: 10px solid red;
+    margin-left: 500px ;
+    /* centered the image using the margin for the first time! */
+    background-color: black;
+    /* even given the background color this does not show any background since it is an inline element */
+}
+
+p {
+    display: inline;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
